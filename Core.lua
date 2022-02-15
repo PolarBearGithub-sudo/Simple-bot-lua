@@ -59,4 +59,4 @@ Client:on("messageCreate", function(message)
     end
 end)
 
-Client:run("Bot NzkyNzcxMzgxNTM1ODM0MTMy.X-ij4g.lD75YWa4aU2Yn7NOXehW__lUHag")
+Client:run("Token here.")
